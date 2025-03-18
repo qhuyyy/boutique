@@ -12,55 +12,25 @@
                     <div class="container-fluid">
                         <div class="row">
                             <div class="col-lg-3 col-md-6">
-                                <div class="coffee_img"><img src="{{ asset('html/images/img-1.png') }}"></div>
+                                <div class="coffee_img"><img src="{{ asset('html/images/img-1.jpg') }}"></div>
                                 <h3 class="types_text">NEW ARRIVALS</h3>
                                 <p class="looking_text">Khám phá bộ sưu tập mới nhất với phong cách thời thượng.</p>
                                 <div class="read_bt"><a href="#">Xem ngay</a></div>
                             </div>
                             <div class="col-lg-3 col-md-6">
-                                <div class="coffee_img"><img src="{{ asset('html/images/img-2.png') }}"></div>
+                                <div class="coffee_img"><img src="{{ asset('html/images/img-2.jpg') }}"></div>
                                 <h3 class="types_text">LUXURY DRESSES</h3>
                                 <p class="looking_text">Những thiết kế sang trọng giúp bạn tỏa sáng.</p>
                                 <div class="read_bt"><a href="#">Khám phá</a></div>
                             </div>
                             <div class="col-lg-3 col-md-6">
-                                <div class="coffee_img"><img src="{{ asset('html/images/img-3.png') }}"></div>
+                                <div class="coffee_img"><img src="{{ asset('html/images/img-3.jpg') }}"></div>
                                 <h3 class="types_text">ACCESSORIES</h3>
                                 <p class="looking_text">Phụ kiện thời trang hoàn thiện phong cách của bạn.</p>
                                 <div class="read_bt"><a href="#">Mua ngay</a></div>
                             </div>
                             <div class="col-lg-3 col-md-6">
-                                <div class="coffee_img"><img src="{{ asset('html/images/img-4.png') }}"></div>
-                                <h3 class="types_text">STYLISH BAGS</h3>
-                                <p class="looking_text">Túi xách sang trọng, cao cấp dành cho mọi dịp đặc biệt.</p>
-                                <div class="read_bt"><a href="#">Xem bộ sưu tập</a></div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="carousel-item">
-                    <div class="container-fluid">
-                        <div class="row">
-                            <div class="col-lg-3 col-md-6">
-                                <div class="coffee_img"><img src="{{ asset('html/images/img-1.png') }}"></div>
-                                <h3 class="types_text">NEW ARRIVALS</h3>
-                                <p class="looking_text">Khám phá bộ sưu tập mới nhất với phong cách thời thượng.</p>
-                                <div class="read_bt"><a href="#">Xem ngay</a></div>
-                            </div>
-                            <div class="col-lg-3 col-md-6">
-                                <div class="coffee_img"><img src="{{ asset('html/images/img-2.png') }}"></div>
-                                <h3 class="types_text">LUXURY DRESSES</h3>
-                                <p class="looking_text">Những thiết kế sang trọng giúp bạn tỏa sáng.</p>
-                                <div class="read_bt"><a href="#">Khám phá</a></div>
-                            </div>
-                            <div class="col-lg-3 col-md-6">
-                                <div class="coffee_img"><img src="{{ asset('html/images/img-3.png') }}"></div>
-                                <h3 class="types_text">ACCESSORIES</h3>
-                                <p class="looking_text">Phụ kiện thời trang hoàn thiện phong cách của bạn.</p>
-                                <div class="read_bt"><a href="#">Mua ngay</a></div>
-                            </div>
-                            <div class="col-lg-3 col-md-6">
-                                <div class="coffee_img"><img src="{{ asset('html/images/img-4.png') }}"></div>
+                                <div class="coffee_img"><img src="{{ asset('html/images/img-4.jpg') }}"></div>
                                 <h3 class="types_text">STYLISH BAGS</h3>
                                 <p class="looking_text">Túi xách sang trọng, cao cấp dành cho mọi dịp đặc biệt.</p>
                                 <div class="read_bt"><a href="#">Xem bộ sưu tập</a></div>

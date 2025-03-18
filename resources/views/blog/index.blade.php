@@ -4,11 +4,11 @@
 @include('welcome.head')
 
 <body>
-    @include('about.header')
+    @include('blog.header')
     <!-- header section end -->
-    <!-- about section start -->
-    @include('about.about')
-    <!-- about section end -->
+    <!-- blog section start -->
+    @include('blog.blog')
+    <!-- blog section end -->
     <!-- footer section start -->
     @include('welcome.footer')
     <!-- footer section end -->

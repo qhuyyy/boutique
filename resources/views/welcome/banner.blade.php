@@ -5,7 +5,7 @@
                 <div class="carousel-item active">
                     <div class="row">
                         <div class="col-md-6">
-                            <div class="banner_img"><img src="{{ asset('html/images/banner-img.png') }}"></div>
+                            <div class="banner_img"><img src="{{ asset('html/images/banner-img-1.jpg') }}"></div>
                         </div>
                         <div class="col-md-6">
                             <div class="banner_taital_main">
@@ -24,7 +24,7 @@
                 <div class="carousel-item">
                     <div class="row">
                         <div class="col-md-6">
-                            <div class="banner_img"><img src="{{ asset('html/images/banner-img.png') }}"></div>
+                            <div class="banner_img"><img src="{{ asset('html/images/banner-img-2.jpg') }}"></div>
                         </div>
                         <div class="col-md-6">
                             <div class="banner_taital_main">
@@ -43,7 +43,7 @@
                 <div class="carousel-item">
                     <div class="row">
                         <div class="col-md-6">
-                            <div class="banner_img"><img src="{{ asset('html/images/banner-img.png') }}"></div>
+                            <div class="banner_img"><img src="{{ asset('html/images/banner-img-3.jpg') }}"></div>
                         </div>
                         <div class="col-md-6">
                             <div class="banner_taital_main">

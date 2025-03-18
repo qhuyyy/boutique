@@ -27,6 +27,5 @@
         rel="stylesheet">
     <!-- Scrollbar Custom CSS -->
     <link rel="stylesheet" href="{{ asset('html/css/jquery.mCustomScrollbar.min.css') }}">
-    <!-- Tweaks for older IEs -->
-    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css">
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 </head>

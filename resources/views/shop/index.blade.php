@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html>
 
-@include('welcome.head')
+@include('shop.head')
 
 <body>
-    @include('about.header')
+    @include('shop.header')
     <!-- header section end -->
     <!-- about section start -->
-    @include('about.about')
+    @include('shop.shop')
     <!-- about section end -->
     <!-- footer section start -->
     @include('welcome.footer')
